@@ -40,10 +40,25 @@
 ##### (MEI_SO) Simulação e Otimização
 
 ##### (MEI_TEAD) Tecnologias Escaláveis para Análise de Dados
+- [TEAD_FP02](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_FP02)
+- [TEAD_FP03](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_FP03)
+- [Trabalho Prático - Movies](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_TP-G01-Movies)
+- [Stack Tools](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_backup-gitlab)
 
 ##### (MEI_PEDWM) Paradigmas Emergentes para o Desenvolvimento Web e Mobile (opcional)
+- [PEDWM_FP01](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP01)
+- [PEDWM_FP02](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP02)
+- [PEDWM_FP03](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP03)
+- [PEDWM_FP04](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP04)
+- [PEDWM_FP05](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP05)
+- [PEDWM_FP06](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_FP06)
+- [Trabalho Prático - ProtocolManager](https://github.com/mei-estg-ipp-pt/2425_12_PEDWM_TP-G02-ProtocolManager)
 
 ##### (MEI_I) Indústria (opcional)
+- [I_FP03](https://github.com/mei-estg-ipp-pt/2425_12_iInd_FP03)
+- [I_FP04](https://github.com/mei-estg-ipp-pt/2425_12_iInd_FP04)
+- [I_FP05](https://github.com/mei-estg-ipp-pt/2425_12_iInd_FP05)
+- [Trabalho Prático - Warehouse](https://github.com/mei-estg-ipp-pt/2425_12_iInd_TP-G01-Warehouse)
 
 ### 2º ano
 #### 1º semestre
