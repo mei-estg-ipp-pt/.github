@@ -23,7 +23,7 @@
 ##### (MEI_TAAD) Tópicos Avançados de Armazenamento de Dados
 - [TAAD_FP04](https://github.com/mei-estg-ipp-pt/2425_11_TAAD_FP04)
 - [Trabalho Prático - WaitingTimes (code)](https://github.com/mei-estg-ipp-pt/2425_11_TAAD_TP-G01-WaitingTimes)
-- [Artigo](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/Analyzing%20Publicly%20Reported%20Waiting%20Times%20Data%20in%20Portuguese%20Health%20Ser.pdf) > https://doi.org/10.1016/j.procs.2026.03.073
+- [Artigo](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/11_taad/Analyzing%20Publicly%20Reported%20Waiting%20Times%20Data%20in%20Portuguese%20Health%20Ser.pdf) > https://doi.org/10.1016/j.procs.2026.03.073
   
 ##### (MEI_CDN) Computação Distribuída e em Núvem (opcional)
 - [CDN_FP03](https://github.com/mei-estg-ipp-pt/2425_11_CDN_FP03)
@@ -35,6 +35,23 @@
   
 ---
 
-- #### 2º semestre
-- repo-1
-- repo-n
+#### 2º semestre
+
+##### (MEI_SO) Simulação e Otimização
+
+##### (MEI_TEAD) Tecnologias Escaláveis para Análise de Dados
+
+##### (MEI_PEDWM) Paradigmas Emergentes para o Desenvolvimento Web e Mobile (opcional)
+
+##### (MEI_I) Indústria (opcional)
+
+### 2º ano
+#### 1º semestre
+##### (MEI_SP) Seminário de Projeto
+- [Artigo](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/21_sp/Artigo_Masters26.pdf)
+
+##### (MEI_LGE) Liderança e Gestão de Equipas (opcional)
+- [LGE_TP01](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/21_lge/LGE_TP01.pdf)
+- [LGE_TP02](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/21_lge/LGE_TP02.pdf)
+- [LGE_TP03](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/21_lge/LGE_TP03.pdf)
+- [LGE_TP04](https://github.com/mei-estg-ipp-pt/.github/blob/main/resources/21_lge/LGE_TP04.pdf)
