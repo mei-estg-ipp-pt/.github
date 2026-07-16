@@ -38,6 +38,7 @@
 #### 2º semestre
 
 ##### (MEI_SO) Simulação e Otimização
+- [Trabalho Prático - Travelling Salesman Problem](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_TP-G01-TSP)
 
 ##### (MEI_TEAD) Tecnologias Escaláveis para Análise de Dados
 - [TEAD_FP02](https://github.com/mei-estg-ipp-pt/2425_12_TEAD_FP02)
